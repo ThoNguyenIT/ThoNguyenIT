@@ -21,6 +21,8 @@
 
 - ⚡ Fun fact **I think I like you ^///^**
 
+- 🤝 Thanks Rahul Jain for help me this beutiful README.md (https://rahuldkjain.github.io/gh-profile-readme-generator)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/nguyễn hữu thọ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nguyễn hữu thọ" height="30" width="40" /></a>
