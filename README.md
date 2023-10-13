@@ -7,7 +7,7 @@
   </div>
 </h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=error4403" alt="error4403" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=error4403" alt="error4403" /></a> </p>
 
 - 🔭 I’m currently working on [Lab3](https://github.com/Error4403/Lab3)
 
