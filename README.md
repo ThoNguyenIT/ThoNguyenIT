@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nguyễn Hữu Thọ</h1>
-<h3 align="center">A third-year student in HUFLIT University</h3>
+<h3 align="center">A third-year student in HUFLIT University </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=error4403&label=Profile%20views&color=0e75b6&style=flat" alt="error4403" /> </p>
+<h3 
+  <div align="center">
+  <img src="https://profile-counter.glitch.me/Error4403/count.svg?"  />
+  </div>
+</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=error4403" alt="error4403" /></a> </p>
 
