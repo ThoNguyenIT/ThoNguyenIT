@@ -31,7 +31,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/nguyễn hữu thọ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nguyễn hữu thọ" height="30" width="40" /></a>
+<a href="https://www.facebook.com/nht404/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nguyễn hữu thọ" height="30" width="40" /></a>
 <a href="https://discord.gg/._error404_." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="._error404_." height="30" width="40" /></a>
 </p>
 
