@@ -13,6 +13,8 @@
 
 - 🤝 I’m looking for help with [Lab3](https://github.com/Error4403/Lab3)
 
+- 🎯 Goals: improve **skill**, **create** new things,.....
+
 - 💬 Ask me about **Jobs, Skills**
 
 - 📫 How to reach me **thonguyen04042003@gmail.com**
